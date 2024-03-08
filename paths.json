@@ -1,6 +1,7 @@
 {
   "mappings": [
     "/content/l423-00-km/:/",
-    "/content/l423-00-km/authors.json:/authors.json"
+    "/content/l423-00-km/featured-authors:/featured-authors.json",
+    "/content/l423-00-km/authors:/authors.json"
   ]
 }
