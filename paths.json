@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/l423-00-km/:/"
+    "/content/l423-00-km/:/",
+    "/content/l423-00-km/authors.json:/authors.json"
   ]
 }
